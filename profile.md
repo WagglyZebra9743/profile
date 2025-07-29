@@ -13,7 +13,7 @@ GitとGitHubの基本的な使い方をしっかり学んで、今後の開発�
 *  ゲーム拡張ファイル(mod)
 
 ### 触ってみたい技術・言語
-* Python, JavaScript, Java, 
+* Python, JavaScript, Java
 * Django
 
 ### これまで作ったもの
